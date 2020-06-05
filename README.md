@@ -1,2 +1,2 @@
-# bake-do
-Easy recipes for difficult times
+# Bake Do
+A [cookbook](BakeDo.pdf) of easy recipes for difficult times
